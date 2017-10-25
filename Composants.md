@@ -21,7 +21,7 @@
 
 ## Microphone
 * **Mini USB Microphone**
-* *5$95*
+* *5.95$*
 * lien : (Adafruit) https://www.adafruit.com/category/119
 
 
@@ -31,7 +31,17 @@
 
 
 ## Capteurs de pression
-* Présents au Fablab
+* **Capteurs de pression x4 + AOP**
+* *Présents au Fablab*
+
 
 ## Récupération des valeurs du/des capteur(s) de pression (Arduino)
-* Pins/Connecteurs pour récupérer la masse mesurée par la balance : ?? Arduino ?
+* Arduino
+* *Présent au Fablab*
+
+
+## Affichage LED
+* Permet d'afficher la masse du produit directement sur la balance
+* Deux produits différents :
+	* *9.95$* : https://www.adafruit.com/product/878
+	* *3.95$* : https://www.adafruit.com/product/865
